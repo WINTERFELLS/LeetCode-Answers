@@ -1,5 +1,7 @@
 package seu.Andre.secondtwenty;
 
+import java.util.HashSet;
+
 public class RemoveElement {
 	public int removeElement(int[] nums, int val) {
         if(nums.length == 0){
